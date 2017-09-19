@@ -1,0 +1,8 @@
+target
+.idea
+.log
+.settings
+.classpath
+.project
+
+
